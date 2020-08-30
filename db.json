@@ -1,33 +1,24 @@
 {
-  "data": {
-    "items": [
-      {
-        "description": null, 
-        "email": "jeevanaawara@gmail.com", 
-        "home_url": null, 
-        "id": 1, 
-        "password": "g1@a3301", 
-        "title": "Google", 
-        "url": null, 
-        "username": "jeevanaawara"
-      }, 
-      {
-        "description": null, 
-        "email": "jeevanaawara@gmail.com", 
-        "home_url": null, 
-        "id": 2, 
-        "password": "zfmWUBi3djTd@pM", 
-        "title": "Google", 
-        "url": null, 
-        "username": "sjc"
-      }
-    ], 
-    "page": 1, 
-    "pages": 1, 
-    "per_page": 20, 
-    "total_items": 2
-  }, 
-  "errors": null, 
-  "exceptions": null, 
-  "status": "SUCCESS"
+  "accounts": [
+    {
+		"description": null, 
+		"email": "jeevanaawara@gmail.com", 
+		"home_url": null, 
+		"id": 1, 
+		"password": "g1@a3301", 
+		"title": "Google", 
+		"url": null, 
+		"username": "jeevanaawara"
+	  }, 
+	  {
+		"description": null, 
+		"email": "jeevanaawara@gmail.com", 
+		"home_url": null, 
+		"id": 2, 
+		"password": "zfmWUBi3djTd@pM", 
+		"title": "Google", 
+		"url": null, 
+		"username": "sjc"
+	  }
+  ]
 }
